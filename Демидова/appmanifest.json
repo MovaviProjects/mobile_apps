@@ -1,0 +1,36 @@
+{
+	"name": "кошка и мышь",
+	"short_name": "кошка и мышь",
+	"description": "кот собирает определённое количество мышей за определённое время.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "920x1000",
+			"type": "image/png"
+		}
+	]
+}
