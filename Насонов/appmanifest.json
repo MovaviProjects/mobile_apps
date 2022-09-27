@@ -1,0 +1,41 @@
+{
+	"name": "мега крутая игра 3,4",
+	"short_name": "мега крутая игра 3,4",
+	"description": "в этой игре содежатся скины босы настройки хилки и многое другое также тут есть бонусный уровень если вы захочите игра садержит 228 действий игра полностью проходится проверено автором (бонусный уровень автором не проверен",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
