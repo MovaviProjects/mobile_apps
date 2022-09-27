@@ -1,0 +1,41 @@
+{
+	"name": "симулятор камня (постааааавь лайк)",
+	"short_name": "симулятор камня (постааааавь лайк)",
+	"description": "симулятор камня! думаешь ты умный? ты как и создатель тупой короче симулятор камня офигенный сюжет очень хорошие персонажи и главное КАК КАКАТЬ",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/Иконка-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-256.png",
+			"sizes": "360x450",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/Иконка-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
